@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Sensitive files
+.env
+
+# Large data files
+data/laptops.csv
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache
+.streamlit/
